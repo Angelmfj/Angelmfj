@@ -20,3 +20,5 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Ctrl-Z (Undo your previous action)
 - Ctrl-F (Search For Text)
+
+[CLI commands](docs/cli.md)
