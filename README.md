@@ -10,3 +10,13 @@
 Angelmfj/Angelmfj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Keyboard shortcuts
+Shortcuts I frequently use:
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-X (cut)
+
+Shortcuts I would like to start using:
+- Ctrl-A (select all)
+- Ctrl-Z (Undo your previous action)
+- Ctrl-F (Search For Text)
