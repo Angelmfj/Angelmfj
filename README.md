@@ -22,3 +22,7 @@ Shortcuts I would like to start using:
 - Ctrl-F (Search For Text)
 
 [CLI commands](docs/cli.md)
+
+## JASON to YAML practice
+---
+(https://www.bairesdev.com/tools/json2yaml/)
